@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">s205865 Lykkehjulet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="lykkehjulet">Lykkehjulet</string>
+    <string name="start_game">Start Game</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="c">C</string>
+    <string name="d">D</string>
+    <string name="e">E</string>
+    <string name="f">F</string>
+    <string name="g">G</string>
+    <string name="h">H</string>
+    <string name="i">I</string>
+    <string name="j">J</string>
+    <string name="k">K</string>
+    <string name="l">L</string>
+    <string name="m">M</string>
+    <string name="n">N</string>
+    <string name="o">O</string>
+    <string name="p">P</string>
+    <string name="q">Q</string>
+    <string name="r">R</string>
+    <string name="s">S</string>
+    <string name="t">T</string>
+    <string name="u">U</string>
+    <string name="v">V</string>
+    <string name="w">W</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <string name="z">Z</string>
+    <string name="Spin">Spin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">empty</string>
+    <string name="Win_msg">Congrats!!! You did it, you guessed the word</string>
+    <string name="lose_msg">Sorry, you lost the game. better luck next time guessing the word</string>
+</resources>
