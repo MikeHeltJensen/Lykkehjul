@@ -1,4 +1,7 @@
 package com.example.s205865lykkehjullet
+/*
+https://github.com/MikeHeltJensen/Lykkehjul link for my github with the project in it
+*/
 
 import android.content.Intent
 import android.os.Bundle
